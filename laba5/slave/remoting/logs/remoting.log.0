@@ -1,0 +1,27 @@
+окт. 22, 2023 10:58:31 PM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: PozdnyakovMI
+окт. 22, 2023 10:58:31 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3174.v2c9e67f8f9df
+окт. 22, 2023 10:58:31 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\ALL\labs\3k1s\tpo\laba5\slave\remoting as a remoting work directory
+окт. 22, 2023 10:58:31 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+окт. 22, 2023 10:58:31 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+окт. 22, 2023 10:58:31 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: localhost
+  Agent port:    15864
+  Identity:      e0:1a:29:16:aa:8b:2f:56:c5:50:2a:68:9a:4f:27:2b
+окт. 22, 2023 10:58:31 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+окт. 22, 2023 10:58:31 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to localhost:15864
+окт. 22, 2023 10:58:31 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+окт. 22, 2023 10:58:31 PM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+INFO: Waiting for ProtocolStack to start.
+окт. 22, 2023 10:58:32 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: e0:1a:29:16:aa:8b:2f:56:c5:50:2a:68:9a:4f:27:2b
+окт. 22, 2023 10:58:32 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
